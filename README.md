@@ -4,6 +4,6 @@ EspSJE
 Ejercicios de la Especialidad de SIMULACIÓN y JUEGOS ESTRATÉGICOS
 
 por
-ING. JULIO J YEPEZ
+Ing. Julio J. Yépez
 --
 jjyepez@gmail.com
